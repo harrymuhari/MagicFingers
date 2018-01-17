@@ -1,6 +1,7 @@
 # MagicFingers
 A sign language translator made possible by using Leap Motion - **_Hack.init()_ Shanghai 2017 ONE day project**
 <br> _Team Project_
+<br> _TOP 5 Teams Project_
 
 ## Tools Used
 - Hardware: Leap Motion
