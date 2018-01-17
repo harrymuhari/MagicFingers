@@ -16,4 +16,4 @@ A sign language translator made possible by using Leap Motion - **_Hack.init()_ 
  
 ## Related link
     https://www.hackx.org/projects/106
-<br>   It contains few Chinese characters since the hackathon took place in Shanghai
+<br>   But..it is in Chinese, since the hackathon took place in Shanghai
