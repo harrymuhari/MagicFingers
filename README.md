@@ -5,7 +5,7 @@ A sign language translator made possible by using Leap Motion - **_Hack.init()_ 
 ## Tools Used
 - Hardware: Leap Motion
 - Language: Java
-- Tools: MVC framework, Swing framework, NetBeans, Leap Motion IDE
+- Implemented using MVC pattern
 
 ## Notes
 - source code is in directory **_src_**
